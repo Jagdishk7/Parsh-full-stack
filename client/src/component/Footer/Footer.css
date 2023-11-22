@@ -1,0 +1,17 @@
+.footer{
+    font-family: 'Josefin Sans', sans-serif;
+    
+    bottom: 0;
+    background-color: #222;
+    width: 100vw;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.footer a{
+    color: #F9BF26;
+}
